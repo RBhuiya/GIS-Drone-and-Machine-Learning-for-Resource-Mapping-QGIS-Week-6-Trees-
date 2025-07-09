@@ -31,7 +31,7 @@ The most powerful aspect of this analysis is that we did not physically visit th
 - Noted positive impacts under government tree plantation schemes as part of National Green India Mission.
 - Evaluated the findings using AI/ML-driven geospatial analysis models for enhanced accuracy and pattern detection.
 
-📊 Benefits of AI + Remote Sensing in This Analysis
+# 📊 Benefits of AI + Remote Sensing in This Analysis
 - ✅ Advantages Over Traditional Methods:
   - 1.⚡ 3x Faster than manual field-based survey methods.
   - 2.🧍‍♂️ Minimal Labor Involvement — low human effort and risk.
