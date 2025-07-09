@@ -53,10 +53,10 @@ The most powerful aspect of this analysis is that we did not physically visit th
   -![2011_Railway Colony](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS-Week-7-Trees-/blob/f7b710ec339b4e3436ed501473402b0fa80a07ef/Screenshot/2011_Railway%20Colony.png)
 
 -(**Ralway Colony Quaters (2024)** -> _After Afforestation_)
-  -[2024_Railway Colony](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS-Week-7-Trees-/blob/f7b710ec339b4e3436ed501473402b0fa80a07ef/Screenshot/2024_Railway%20Colony.png)
+  -![2024_Railway Colony](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS-Week-7-Trees-/blob/f7b710ec339b4e3436ed501473402b0fa80a07ef/Screenshot/2024_Railway%20Colony.png)
 
 -(**comparison of Progress 2011 --> 2024**)
-  -[A-6-1](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS-Week-7-Trees-/blob/f7b710ec339b4e3436ed501473402b0fa80a07ef/Screenshot/A-6-1.jpeg)
+  -![A-6-1](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS-Week-7-Trees-/blob/f7b710ec339b4e3436ed501473402b0fa80a07ef/Screenshot/A-6-1.jpeg)
 
 
 📈 Observed Results (2011–2024):
