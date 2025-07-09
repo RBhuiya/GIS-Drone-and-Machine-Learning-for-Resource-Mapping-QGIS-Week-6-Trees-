@@ -2,7 +2,7 @@
 #  🇮🇳 QGIS India's Geospatial Data Project
 
 # 🌍 Project Overview
-In Week 6, we moved into a more advanced and practical application of remote sensing and AI-powered mapping by utilizing Google Earth Pro, Remote Sensing, and Machine Learning to analyze the environmental impact of urbanization.
+In Week 7, we moved into a more advanced and practical application of remote sensing and AI-powered mapping by utilizing Google Earth Pro, Remote Sensing, and Machine Learning to analyze the environmental impact of urbanization.
 ![A-6-1](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS-Week-7-Trees-/blob/f7b710ec339b4e3436ed501473402b0fa80a07ef/Screenshot/A-6-1.jpeg)
 Our focused case study involved the Railway Colony area of Liluah, Howrah, West Bengal, where we investigated the effects of deforestation due to urban growth and evaluated the effectiveness of government-led afforestation programs over a period of 13 years (2011–2024).
 
