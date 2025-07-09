@@ -59,7 +59,7 @@ The most powerful aspect of this analysis is that we did not physically visit th
   -![A-6-1](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS-Week-7-Trees-/blob/f7b710ec339b4e3436ed501473402b0fa80a07ef/Screenshot/A-6-1.jpeg)
 
 
-📈 Observed Results (2011–2024):
+# 📈 Observed Results (2011–2024):
 - Noticeable increase in green cover in red-marked zones.
 - Reduction in visible pollution impacts through increased vegetation.
 - Effective use of AI, GIS, and Remote Sensing technologies to verify outcomes remotely.
