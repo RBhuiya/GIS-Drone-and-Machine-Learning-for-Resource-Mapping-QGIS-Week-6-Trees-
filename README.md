@@ -41,7 +41,7 @@ The most powerful aspect of this analysis is that we did not physically visit th
   - 6.💾 Easy Data Storage, Management & Sharing through databases and GIS servers.
 
 # 🧪 Analysis Summary
-- 🌆 Problem:
+🌆 Problem:
   - Rapid urbanization led to continuous tree-cutting, affecting local air quality, groundwater, and soil health.
   - Manual monitoring methods were inefficient, expensive, and time-consuming.
 
